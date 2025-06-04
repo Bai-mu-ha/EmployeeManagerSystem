@@ -79,7 +79,7 @@ git clone https://github.com/Bai-mu-ha/EmployeeManagerSystem.git
 
 # 3. 运行入口文件:
 
-src/App.java
+Manager/src/App.java
 
 ```
 
