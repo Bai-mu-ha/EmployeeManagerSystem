@@ -58,13 +58,13 @@ EmployeeManagerSystem/
 
 |----------------|--------------------------|
 
-| **登录界面**   | ![登录界面](docs/screenshots/login.png) |
+| **登录界面**   | ![登录界面](Manager/docs/screenshots/login.png) |
 
-| **员工列表**   | ![员工列表](docs/screenshots/list.png) |
+| **员工列表**   | ![员工列表](Manager/docs/screenshots/list.png) |
 
-| **编辑窗口**   | ![编辑窗口](docs/screenshots/edit.png) |
+| **编辑窗口**   | ![编辑窗口](Manager/docs/screenshots/edit.png) |
 
-| **注册页面**   | ![注册页面](docs/screenshots/register.png) |
+| **注册页面**   | ![注册页面](Manager/docs/screenshots/register.png) |
 
 
 ## 🚀 快速启动
